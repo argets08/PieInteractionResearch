@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotLink", "WindowsFormsApplication1\RobotLink.csproj", "{22D8A157-FA36-4A9B-B2D5-EDD9377498BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testhttpserve", "testhttpserve\testhttpserve.csproj", "{C331A623-FDE9-44CE-BF36-3294D50A2FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D8A157-FA36-4A9B-B2D5-EDD9377498BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D8A157-FA36-4A9B-B2D5-EDD9377498BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D8A157-FA36-4A9B-B2D5-EDD9377498BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D8A157-FA36-4A9B-B2D5-EDD9377498BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C331A623-FDE9-44CE-BF36-3294D50A2FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C331A623-FDE9-44CE-BF36-3294D50A2FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C331A623-FDE9-44CE-BF36-3294D50A2FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C331A623-FDE9-44CE-BF36-3294D50A2FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

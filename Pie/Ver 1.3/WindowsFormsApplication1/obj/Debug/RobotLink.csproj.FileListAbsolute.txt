@@ -1,0 +1,63 @@
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RobotPie.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RobotLink.csproj.GenerateResource.Cache
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MyNamespace.InputDialog.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Research\Visual Studio Files\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Research\Visual Studio Files\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MyNamespace.InputDialog.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RobotLink.csproj.GenerateResource.Cache
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GoTo.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RobotPie.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NewNamespace.InputCombo.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.drop.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\speedNamespace.speedSelect.resources
+C:\Users\Ron\Desktop\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.grab.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\MyNamespace.InputDialog.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.grab.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\speedNamespace.speedSelect.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.drop.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\NewNamespace.InputCombo.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GoTo.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RobotPie.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\RobotLink.csproj.GenerateResource.Cache
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tanmaya\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\research\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\research\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\research\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\research\WindowsFormsApplication1\obj\Debug\MyNamespace.InputDialog.resources
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.grab.resources
+F:\research\WindowsFormsApplication1\obj\Debug\speedNamespace.speedSelect.resources
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.drop.resources
+F:\research\WindowsFormsApplication1\obj\Debug\NewNamespace.InputCombo.resources
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GoTo.resources
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RobotPie.resources
+F:\research\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\research\WindowsFormsApplication1\obj\Debug\RobotLink.csproj.GenerateResource.Cache
+G:\Ver 1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.grab.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\speedNamespace.speedSelect.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.drop.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NewNamespace.InputCombo.resources
+C:\Users\Ron\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GoTo.resources
+D:\Official Doccuments\Research\Pie\Ver 1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Official Doccuments\Research\Pie\Ver 1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Research\Pie\Ver 1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Research\Pie\Ver 1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
